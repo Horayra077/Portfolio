@@ -1,2 +1,2 @@
 # Portfolio
-Used CORE PHP, MySQL, HTML, CSS, and Bootstrap in this project
+Used CORE PHP, MySQL, HTML, CSS, Bootstrap and Javascript in this project.
